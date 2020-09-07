@@ -1,17 +1,17 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "name": "Emily Huang",
+    "occupation": "Journey to Becoming a Software Engineer",
+    "description": "Picking Myself Up with 2020 Vision. #studentforlife",
+    "image": "myAvatar.png",
+    "bio": "My main drive in the technology field is my curiosity in understanding the reason behind how technology work when solving problems.",
+    "contactmessage": "Looking forward to passion projects.",
+    "email": "Message on LinkedIn",
     "phone": "+44 12 345 6789",
     "address": {
       "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
+      "city": "NY",
+      "state": "USA",
       "zip": "ABC 123"
     },
     "website": "http://www.timbakerdev.com",
@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/emily.whatsittoya",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/emilyzhenfanghuang/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/codebig/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Ehuang1412",
         "className": "fa fa-github"
       }
     ]
